@@ -49,6 +49,9 @@ You will need the following installed to build and run this project:
      Demo1
      ```
 ## Usage
+![Robot Navigation Simulation Demo(1)](https://github.com/user-attachments/assets/dcff738e-cda8-4404-9219-45827e16635d)
+
+
 
 ### Quick Summary
 - ***Goal***: Simulate an autonomous robot navigating a 4x4 grid to find and remove the most isolated object.
