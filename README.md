@@ -49,9 +49,6 @@ You will need the following installed to build and run this project:
      Demo1
      ```
 ## Usage
-![Robot Navigation Simulation Demo(1)](https://github.com/user-attachments/assets/dcff738e-cda8-4404-9219-45827e16635d)
-
-
 
 ### Quick Summary
 - ***Goal***: Simulate an autonomous robot navigating a 4x4 grid to find and remove the most isolated object.
@@ -61,6 +58,8 @@ You will need the following installed to build and run this project:
 - ***Outcome***: Successfully completed all 10 test scenarios with varied object placements.
 
 ### Demo
+![Robot Navigation Simulation Demo(1)](https://github.com/user-attachments/assets/dcff738e-cda8-4404-9219-45827e16635d)
+
 
 ### Reactive Navigation and Object Detection
 - Navigates a 4x4 grid using sense-plan-act style loop
